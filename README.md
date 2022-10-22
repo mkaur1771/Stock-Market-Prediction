@@ -6,8 +6,8 @@ In today’s world, all the information pertaining to stock market is available.
 #### 1. Data Extraction
 #### 2. Data Exploration
 #### 3. Data Analysis
-###### Moving Average:-  Average is easily one of the most common things we use in our day-to-day lives. The predicted closing price for each day will be the average of a set of previously observed values.
-###### Volatility:-  Volatility is a measure of change over time. In stock markets, it quantifies a stock’s lack of stability or the tendency of its prices to move up and down. Usually, the higher the volatility, the riskier the stock.
+###### * Moving Average:-  Average is easily one of the most common things we use in our day-to-day lives. The predicted closing price for each day will be the average of a set of previously observed values.
+###### * Volatility:-  Volatility is a measure of change over time. In stock markets, it quantifies a stock’s lack of stability or the tendency of its prices to move up and down. Usually, the higher the volatility, the riskier the stock.
 #### 4. Methodology
-##### Long Short-Term Memory (LSTM)
-##### Prophet
+##### * Long Short-Term Memory (LSTM)
+##### * Prophet
